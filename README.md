@@ -11,3 +11,7 @@
 - RxJava2
 - ButterKnife
 - Glide
+
+### Пример работы приложения
+
+![example.png](/example.png "Пример")
